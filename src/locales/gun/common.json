@@ -1,0 +1,79 @@
+{
+  "app": {
+    "name": "Cotonou City Vibe",
+    "tagline": "Cotonou tɔ̀n kplékplé wema"
+  },
+  "nav": {
+    "map": "Kǎntá",
+    "list": "Nininɔ̀",
+    "favorites": "Nǔ e yí wǎn lɛ",
+    "play": "Dà",
+    "explorer": "Carte"
+  },
+  "search": {
+    "placeholder": "Ba fǐ ɖé kpó gbɛ̀ kpó..."
+  },
+  "filters": {
+    "title": "Zizɛn",
+    "categories": "Klase lɛ",
+    "quartiers": "Gbɛ̀ lɛ",
+    "reset": "Lɛ̀kɔ́",
+    "results": "Fǐ {{count}}",
+    "results_other": "Fǐ {{count}} lɛ"
+  },
+  "categories": {
+    "maquis": "Maquis",
+    "restaurant": "Nǔɖuɖu xwé",
+    "nightlife": "Zǎn dà",
+    "plage": "Xù gɔ̀",
+    "marche": "Axi",
+    "hotel": "Hotɛ́lì",
+    "culture": "Nǔxó xóxó",
+    "sport": "Bɔlu",
+    "transport": "Zɔ̀n",
+    "sante": "Dotóxwé",
+    "nature": "Atín",
+    "culte": "Sinsɛ̀n xwé"
+  },
+  "quartiers": {
+    "dantokpa": "Dantokpa",
+    "ganhi": "Ganhi",
+    "haie-vive": "Haie Vive",
+    "marina": "Marina",
+    "cadjehoun": "Cadjehoun",
+    "fidjrosse": "Fidjrossè",
+    "zongo": "Zongo",
+    "akpakpa": "Akpakpa",
+    "gbedjromede": "Gbèdjromèdé",
+    "plateau": "Plateau",
+    "kouhounou": "Kouhounou"
+  },
+  "venue": {
+    "hours": "Gan",
+    "openNow": "È hùn",
+    "closedNow": "È kló",
+    "everyday": "Hùn hwenu bǐ",
+    "rating": "Nɔ̀tì",
+    "price": "Akwɛ́",
+    "call": "Ylɔ́",
+    "tags": "Tag lɛ",
+    "directions": "Mɔ̀",
+    "favorite": "Kán nǔ yí wǎn",
+    "unfavorite": "Ðé yí wǎn",
+    "details": "Nǔ tɔ́n",
+    "quartier": "Gbɛ̀",
+    "about": "Kɛnkɛn"
+  },
+  "price": {
+    "1": "Akwɛ́ vǐ",
+    "2": "Akwɛ́ tɛntin",
+    "3": "Akwɛ́ ɖaxó"
+  },
+  "common": {
+    "back": "Lɛ̀kɔ́",
+    "all": "Bǐ",
+    "empty": "Nǔ ɖé kpɔ́n a mɔ̀ ǎ",
+    "loading": "Ðò zɔ̀n wɛ̀...",
+    "language": "Gbè"
+  }
+}

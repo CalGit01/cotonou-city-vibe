@@ -1,0 +1,79 @@
+{
+  "app": {
+    "name": "Cotonou City Vibe",
+    "tagline": "Cotonou ƒe mɔfiame wema"
+  },
+  "nav": {
+    "map": "Kǎntá",
+    "list": "Ŋkɔŋlɔɖi",
+    "favorites": "Nu siwo lɔ̃",
+    "play": "Fefe",
+    "explorer": "Carte"
+  },
+  "search": {
+    "placeholder": "Di teƒe alo kɔta aɖe..."
+  },
+  "filters": {
+    "title": "Filtɛ",
+    "categories": "Klase lɛ",
+    "quartiers": "Kɔta lɛ",
+    "reset": "Gbugbɔ",
+    "results": "Teƒe {{count}}",
+    "results_other": "Teƒe {{count}} lɛ"
+  },
+  "categories": {
+    "maquis": "Maquis",
+    "restaurant": "Nùɖuɖuxɔ",
+    "nightlife": "Zã fefe",
+    "plage": "Xu",
+    "marche": "Asi",
+    "hotel": "Hɔtɛli",
+    "culture": "Nù xoxo lɛ",
+    "sport": "Bɔlu",
+    "transport": "Zɔzɔ",
+    "sante": "Dɔtɔxɔ",
+    "nature": "Ati",
+    "culte": "Sɔxɔ"
+  },
+  "quartiers": {
+    "dantokpa": "Dantokpa",
+    "ganhi": "Ganhi",
+    "haie-vive": "Haie Vive",
+    "marina": "Marina",
+    "cadjehoun": "Cadjehoun",
+    "fidjrosse": "Fidjrossè",
+    "zongo": "Zongo",
+    "akpakpa": "Akpakpa",
+    "gbedjromede": "Gbèdjromèdé",
+    "plateau": "Plateau",
+    "kouhounou": "Kouhounou"
+  },
+  "venue": {
+    "hours": "Ga",
+    "openNow": "Eʋu",
+    "closedNow": "Etu",
+    "everyday": "Ʋu ɣeyiɣi katã",
+    "rating": "Nɔti",
+    "price": "Gá",
+    "call": "Yɔ",
+    "tags": "Nya kpui lɛ",
+    "directions": "Mɔ",
+    "favorite": "Tsɔ kpe ɖe lɔ̃lɔŋu",
+    "unfavorite": "Ðe le eme",
+    "details": "Nya tɔxɛ",
+    "quartier": "Kɔta",
+    "about": "Nya le e ŋu"
+  },
+  "price": {
+    "1": "Gá sue",
+    "2": "Gá titi",
+    "3": "Gá gã"
+  },
+  "common": {
+    "back": "Megbe",
+    "all": "Katã",
+    "empty": "Mekpɔ nu aɖeke o",
+    "loading": "E le dɔ wɔm...",
+    "language": "Gbe"
+  }
+}
